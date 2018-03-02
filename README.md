@@ -2,9 +2,14 @@
 
 (Work in progress)
 
-Author: MD Abir A. Choudhury
-Purpose: A Personal Website
-Website URL: https://SaberMDAbir.github.io
+Author
+MD Abir A. Choudhury
+
+Purpose
+A Personal Website
+
+Website URL
+https://SaberMDAbir.github.io
 
 What is this for?
 This website was designed and created to act as a start to my personal brand. With this project, I hope to delve myself deeper into the world of web apps, web programming, and Git. 
