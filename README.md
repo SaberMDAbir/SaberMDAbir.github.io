@@ -1,8 +1,6 @@
 # SaberMDAbir.github.io
-Alt-H1
 ======
-
-####### (Work in progress)
+###### (Work in progress)
 
 ### Author
 MD Abir A. Choudhury
