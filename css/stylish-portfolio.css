@@ -182,13 +182,22 @@ hr.small {
     opacity: 0.8;
 }
 
+.parallex {
+    background-image: url(../img/callout.jpg);
+    height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* Callout */
 
 .callout {
     display: table;
     width: 100%;
     height: 400px;
-    color: #fff;
+    color: inherit;
     background: url(../img/callout.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
